@@ -4,6 +4,7 @@
 To write a C function to insert the elements in the binary search tree
 
 ## Algorithm
+
 1 Start
 2 Check if the current node is NULL; if true, create a new node with the given key.
 3 Allocate memory for the new node, set its key, and initialize its left and right children to NULL.
@@ -12,7 +13,9 @@ To write a C function to insert the elements in the binary search tree
 6 If key > node->key, recursively insert the key into the right subtree and update the right child pointer.
 7 Return the current node after the insertion.
 8 End
+
 ## Program:
+```
 /*
 Program to insert the elements in the binary search tree
 Developed by: NANDHANA R
@@ -51,6 +54,7 @@ return node;
 } 
  
 } 
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/8b1dcf56-6937-4521-bb47-560d6b2066a0)
