@@ -53,7 +53,7 @@ return node;
 } 
  
 } 
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/8b1dcf56-6937-4521-bb47-560d6b2066a0)
