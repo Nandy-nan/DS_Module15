@@ -13,13 +13,11 @@ To write a C function to insert the elements in the binary search tree
 7 Return the current node after the insertion.
 8 End
 ## Program:
-```
 /*
 Program to insert the elements in the binary search tree
 Developed by: NANDHANA R
-RegisterNumber:212223040124  
+RegisterNumber: 212223040124
 */
-```
 struct node { 
 int key; 
 struct node *left, *right; 
@@ -53,7 +51,6 @@ return node;
 } 
  
 } 
-```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/8b1dcf56-6937-4521-bb47-560d6b2066a0)
